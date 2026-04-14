@@ -18,6 +18,12 @@
 			"preview_bucket_name": "alphareach-media",
 		},
 	],
+	"kv_namespaces": [
+		{
+			"binding": "SESSION",
+			"id": "63d0dcb5ef6e4ef8947870f4e2602f72",
+		},
+	],
 	// "worker_loaders": [
 	// 	{
 	// 		"binding": "LOADER",
